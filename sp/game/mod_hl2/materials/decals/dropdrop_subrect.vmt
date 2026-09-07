@@ -1,0 +1,33 @@
+
+"unlitgeneric"
+{
+ "$basetexture"  "decals/dropdrop"
+ "$bumpmap"     "decals/dropdrop_nrm"
+"$mraotexture"   "decals/dropdrop_nrm"
+"$bumpmap" 	"decals/dropdrop_nrm"
+
+"$envmap"	"env_cubemap"
+
+"$useEnvAmbient"	"1"
+
+"$alphatest"	"1"
+
+"$translucent"	"1"
+"$parallax"	"1"
+"$parallaxdepth"	"60"
+
+ "$surfaceprop"   "default"
+ "$model"         "1"
+
+
+	$decalscale 0.02
+	$decalscalevariation 0.02
+}
+
+
+// Copyright © 2020 by GalaxyHighMarshal, All rights reserved.
+// All trademarks are property of their respective owners.
+// No parts of this coding or any of its contents may be reproduced, copied, modified or adapted, without the prior written consent of the author, unless otherwise indicated for stand-alone materials. Doing so would be violating
+// https://store.steampowered.com/subscriber_agreement/ 
+// I Have Spoken
+

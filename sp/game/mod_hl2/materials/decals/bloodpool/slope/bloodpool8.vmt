@@ -1,0 +1,5 @@
+"DecalModulate"
+{
+	$basetexture "Decals/bloodpool/slope/bloodpool8"
+	"$decal" "1"
+}
